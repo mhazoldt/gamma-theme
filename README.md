@@ -1,0 +1,1 @@
+this is the theme I use with vs code. It is a high contrast theme that has specific bracket colors for objects, classes, functions and arrow functions.
